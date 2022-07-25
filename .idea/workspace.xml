@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice with variables">
+    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice with variables = string">
+      <change afterPath="$PROJECT_DIR$/Data Type/Dictionaries/Dictionary_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Type/List/list_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Type/Variables/vairables_demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables/vairables_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variables/vairables_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/vairables_demo.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +36,37 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python-course-selenium/Data Type/List/list_methods.py&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python-course-selenium\Data Type" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.list_methods">
+    <configuration name="list_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-course-selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Type/List" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Type/List/list_methods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="vairables_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-course-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,8 +88,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.list_methods" />
+      <item itemvalue="Python.vairables_demo" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list_methods" />
         <item itemvalue="Python.vairables_demo" />
       </list>
     </recent_temporary>
@@ -80,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650557392196</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="practice with variables = string">
+      <created>1650651478808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650651478808</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -107,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practice with variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice with variables" />
+    <MESSAGE value="practice with variables = string" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice with variables = string" />
   </component>
 </project>
