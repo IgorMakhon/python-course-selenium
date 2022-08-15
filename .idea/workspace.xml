@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice with variables = dictionaries">
-      <change afterPath="$PROJECT_DIR$/Data Type/Tuples/Typles_demo.py" afterDir="false" />
+    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice with variables = tuple">
+      <change afterPath="$PROJECT_DIR$/Control Flow/else_if/Else_if_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow/else_if/if_else_age_verification.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Type/Tuples/Typles_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Type/Tuples/Typles_demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/python-course-selenium/Data Type/Tuples/Typles_demo.py",
+    "last_opened_file_path": "D:/python-course-selenium/Control Flow/else_if/if_else_age_verification.py",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -44,8 +46,8 @@
       <recent name="D:\python-course-selenium\Data Type" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Typles_demo">
-    <configuration name="Typles_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.if_else_age_verification">
+    <configuration name="if_else_age_verification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-course-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Type/Tuples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow/else_if" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Type/Tuples/Typles_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow/else_if/if_else_age_verification.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,12 +90,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Typles_demo" />
+      <item itemvalue="Python.if_else_age_verification" />
       <item itemvalue="Python.vairables_demo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Typles_demo" />
+        <item itemvalue="Python.if_else_age_verification" />
         <item itemvalue="Python.vairables_demo" />
       </list>
     </recent_temporary>
@@ -135,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658839577060</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="practice with variables = tuple">
+      <created>1658840203157</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658840203157</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -165,6 +174,7 @@
     <MESSAGE value="practice with variables = string" />
     <MESSAGE value="practice with variables = list &amp; dictionaries" />
     <MESSAGE value="practice with variables = dictionaries" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice with variables = dictionaries" />
+    <MESSAGE value="practice with variables = tuple" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice with variables = tuple" />
   </component>
 </project>
