@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice with else_if">
-      <change afterPath="$PROJECT_DIR$/Control Flow/nested/nested_if_else.py" afterDir="false" />
+    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice with nested_else_if">
+      <change afterPath="$PROJECT_DIR$/Control Flow/BMI Course Conditions/BMI exercise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/python-course-selenium/Control Flow/nested/nested_if_else.py",
+    "last_opened_file_path": "D:/python-course-selenium/Control Flow/BMI Course Conditions/BMI exercise.py",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -44,8 +44,8 @@
       <recent name="D:\python-course-selenium\Data Type" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.nested_if_else">
-    <configuration name="nested_if_else" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BMI exercise">
+    <configuration name="BMI exercise" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-course-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow/nested" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow/BMI Course Conditions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow/nested/nested_if_else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow/BMI Course Conditions/BMI exercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +88,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.nested_if_else" />
+      <item itemvalue="Python.BMI exercise" />
       <item itemvalue="Python.vairables_demo" />
     </list>
     <recent_temporary>
@@ -148,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660575506640</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="practice with nested_else_if">
+      <created>1660830904855</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660830904855</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -180,6 +187,7 @@
     <MESSAGE value="practice with variables = dictionaries" />
     <MESSAGE value="practice with variables = tuple" />
     <MESSAGE value="practice with else_if" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice with else_if" />
+    <MESSAGE value="practice with nested_else_if" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice with nested_else_if" />
   </component>
 </project>
