@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice with BMI_exercise1">
-      <change afterPath="$PROJECT_DIR$/Control Flow/Even_or_not/Even_or_not.py" afterDir="false" />
+    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="refactor&gt;rename">
+      <change afterPath="$PROJECT_DIR$/Control Flow/Loop/FOR_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,21 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/python-course-selenium/Control Flow/Even_or_not/Even_or_not.py&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/python-course-selenium/Control Flow/Loop/FOR_loop.py",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\python-course-selenium\Data Type" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Even_or_not">
-    <configuration name="Even_or_not" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.FOR_loop">
+    <configuration name="FOR_loop" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-course-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow/Even_or_not" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow/Loop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow/Even_or_not/Even_or_not.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow/Loop/FOR_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +88,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Even_or_not" />
+      <item itemvalue="Python.FOR_loop" />
       <item itemvalue="Python.vairables_demo" />
     </list>
     <recent_temporary>
@@ -169,7 +169,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660846716717</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="practice with EVEN/ODD_exercise">
+      <created>1661100570189</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661100570190</updated>
+    </task>
+    <task id="LOCAL-00011" summary="refactor&gt;rename">
+      <created>1661100688160</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661100688160</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -204,6 +218,8 @@
     <MESSAGE value="practice with nested_else_if" />
     <MESSAGE value="practice with BMI_exercise" />
     <MESSAGE value="practice with BMI_exercise1" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice with BMI_exercise1" />
+    <MESSAGE value="practice with EVEN/ODD_exercise" />
+    <MESSAGE value="refactor&gt;rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor&gt;rename" />
   </component>
 </project>
