@@ -64,10 +64,16 @@
 # print(capitals)
 
 capitals = {"USA": "Washington DC", "France": "Paris", "Turkey": "Ankara"}
-print(type(capitals))
-all_keys = capitals.keys()
-all_values = capitals.values()
-print(all_keys)
-print(all_values)
-print(list(all_keys)) #in Python3
-print(list(all_values)) #in Python3
+# print(type(capitals))
+# all_keys = capitals.keys()
+# all_values = capitals.values()
+# print(all_keys)
+# print(all_values)
+# print(list(all_keys)) #in Python3
+# print(list(all_values)) #in Python3
+
+for k,v in capitals.items():
+    print("==================================")
+    if k == "USA" and v == "Washington DC":
+        print("result = " + k + " " + v)
+        print("==================================")

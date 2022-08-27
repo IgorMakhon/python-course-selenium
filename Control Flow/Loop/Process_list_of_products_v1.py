@@ -32,7 +32,22 @@ products_list = [
 
 print("Exercise 1: Iterate the products list and print the name of all products that have price greater than 25.")
 #print(len(products_list))
-for dict_items in range(len(products_list)):
-    for key in products_list[dict_items]:
-        print()
-        print("=========================================")
+for index in range(len(products_list)): # define how many elements(dictionaries) in the list product_list
+    for key, value in products_list[index].items(): # iterate all keys and values of the dictionaries to use each in 'if'
+        if key == 'price' and value > 25:
+            print(products_list[index].get('name'))
+print("============================================================================================")
+print("Exercise 2: Print the name and price of products that are on sale.")
+for index in range(len(products_list)): # define how many elements(dictionaries) in the list product_list
+    res = True
+    for ele in products_list[index]:
+        if not products_list[index][ele]:
+            res = False
+            print(products_list[index].get('name'))
+    # for key, value in products_list[index].items(): # iterate all keys and values of the dictionaries to use each in 'if'
+    #     # print(products_list[index].get('sale_price'))
+    #     # print("=====================================")
+    #     if products_list[index].get('is_on_sale'):
+    #         print(products_list[index].get('name'))
+
+

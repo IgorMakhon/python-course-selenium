@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice break+continue">
-      <change afterPath="$PROJECT_DIR$/Control Flow/Loop/Process_list_of_products_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Control Flow/Loop/while_loop_what_is_between.py" afterDir="false" />
+    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Loop/Process_list_of_products_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow/Loop/Process_list_of_products_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Control Flow/Loop/while_loop_what_is_between.py" beforeDir="false" afterPath="$PROJECT_DIR$/Control Flow/Loop/while_loop_what_is_between.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Type/Dictionaries/Dictionary_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Type/Dictionaries/Dictionary_type.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/python-course-selenium/Control Flow/Loop/while_loop_what_is_between.py",
+    "last_opened_file_path": "D:/python-course-selenium/Control Flow/Loop/Process_list_of_products_v1.py",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -45,7 +46,28 @@
       <recent name="D:\python-course-selenium\Data Type" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.while_loop_what_is_between">
+  <component name="RunManager" selected="Python.Process_list_of_products_v1">
+    <configuration name="Process_list_of_products_v1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python-course-selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow/Loop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow/Loop/Process_list_of_products_v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="vairables_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-course-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,29 +89,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while_loop_what_is_between" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="python-course-selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Control Flow/Loop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow/Loop/while_loop_what_is_between.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.while_loop_what_is_between" />
+      <item itemvalue="Python.Process_list_of_products_v1" />
       <item itemvalue="Python.vairables_demo" />
     </list>
     <recent_temporary>
@@ -212,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661447538782</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="practice break+continue">
+      <created>1661536062634</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661536062634</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
