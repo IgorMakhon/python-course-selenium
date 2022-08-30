@@ -36,18 +36,34 @@ for index in range(len(products_list)): # define how many elements(dictionaries)
     for key, value in products_list[index].items(): # iterate all keys and values of the dictionaries to use each in 'if'
         if key == 'price' and value > 25:
             print(products_list[index].get('name'))
+            break
+print("------------another solution----------------")
+
+for i in products_list:
+    if i['price'] > 25:
+        print(i['name'])
+
+
 print("============================================================================================")
 print("Exercise 2: Print the name and price of products that are on sale.")
 for index in range(len(products_list)): # define how many elements(dictionaries) in the list product_list
-    res = True
-    for ele in products_list[index]:
-        if not products_list[index][ele]:
-            res = False
-            print(products_list[index].get('name'))
-    # for key, value in products_list[index].items(): # iterate all keys and values of the dictionaries to use each in 'if'
-    #     # print(products_list[index].get('sale_price'))
-    #     # print("=====================================")
-    #     if products_list[index].get('is_on_sale'):
-    #         print(products_list[index].get('name'))
+    for j in products_list[index]:
+        if products_list[index].get("is_on_sale"):
+            print(products_list[index].get('name') + " " + str (products_list[index].get('price')))
+            break
 
+print("------------another solution----------------")
 
+for i in products_list:
+    if i['is_on_sale']: # the same as if i['is_on_sale'] == True
+        print(i['name'] + " " + str(i['price']))
+print("============================================================================================")
+print("Exercise 3: Create a list of products (product names) that are on sale but do not have a sale price.")
+my_new_list=[]
+for index in range(len(products_list)): # define how many elements(dictionaries) in the list product_list
+    for j in products_list[index]:
+        if products_list[index].get("is_on_sale") and products_list[index].get("sale_price") == None:
+            # print(products_list[index].get('name'))
+            my_new_list.append(products_list[index].get('name'))
+            break
+print(my_new_list)
