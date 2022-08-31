@@ -34,11 +34,10 @@ for index in range(len(products)): # define how many elements(dictionaries) in t
                 print(products[index].get('name'))
                 break
 
-# price='$22'
-# print(price)
-# print(type(price))
-# print(int(price[1:10]))
-
-# abc='$21'
-# abc_my = abc.split("$")
-# print(int(abc_my[1]))
+print('=========================another solution------------')
+for i in products:
+    tmp_price = i['price'].replace("$"," ")
+    # tmp_price = i["proce"][1:] same result as line above!
+    price = float(tmp_price)
+    if price > 25:
+        print(i['name'])
