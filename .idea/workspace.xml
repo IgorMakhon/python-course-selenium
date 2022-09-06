@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice4 with reverse +handle exceptions">
-      <change afterPath="$PROJECT_DIR$/Function/function_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Function/kyeword_param_in_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewar_training/Reduce_but_Grow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libraries _modules/libraries_examples.py" afterDir="false" />
+    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice with functions&#10;and modules/libraries">
+      <change afterPath="$PROJECT_DIR$/codewar_training/Grasshopper _Check for factor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Control Flow/Loop/reverse words.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewar_training/reverse words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Control Flow/Loop/reversed_words&amp;letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewar_training/reversed_words&amp;letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewar_training/Reduce_but_Grow.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewar_training/Reduce_but_Grow.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +54,49 @@
       <recent name="D:\python-course-selenium\Data Type" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.kyeword_param_in_func">
+  <component name="RunManager" selected="Python.Reduce_but_Grow">
+    <configuration name="Grasshopper _Check for factor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-course-selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewar_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar_training/Grasshopper _Check for factor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Reduce_but_Grow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-course-selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewar_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar_training/Reduce_but_Grow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="function_examples" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-course-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice_for_exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverse words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-course-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception_handling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewar_training" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception_handling/practice_for_exceptions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar_training/reverse words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,15 +205,19 @@
     <list>
       <item itemvalue="Python.reverse_words" />
       <item itemvalue="Python.function_examples" />
+      <item itemvalue="Python.Grasshopper _Check for factor" />
+      <item itemvalue="Python.Reduce_but_Grow" />
+      <item itemvalue="Python.reverse words" />
       <item itemvalue="Python.kyeword_param_in_func" />
       <item itemvalue="Python.reversed_words&amp;letters" />
-      <item itemvalue="Python.practice_for_exceptions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Reduce_but_Grow" />
+        <item itemvalue="Python.reverse words" />
+        <item itemvalue="Python.Grasshopper _Check for factor" />
         <item itemvalue="Python.kyeword_param_in_func" />
         <item itemvalue="Python.reversed_words&amp;letters" />
-        <item itemvalue="Python.practice_for_exceptions" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +377,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662123039732</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="practice with functions&#10;and modules/libraries">
+      <created>1662309834597</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1662309834597</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -381,6 +430,7 @@
     <MESSAGE value="practice4" />
     <MESSAGE value="practice4 with reverse" />
     <MESSAGE value="practice4 with reverse +handle exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice4 with reverse +handle exceptions" />
+    <MESSAGE value="practice with functions&#10;and modules/libraries" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice with functions&#10;and modules/libraries" />
   </component>
 </project>

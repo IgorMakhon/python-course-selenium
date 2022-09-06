@@ -1,31 +1,23 @@
-arr = [1, 2, 3, 4, [5, 4]]
+'''
+Given a non-empty array of integers, return the result of multiplying the values together in order. Example:
+
+[1, 2, 3, 4] => 1 * 2 * 3 * 4 = 24
+
+'''
+arr = [64, [2, 2, 2, 2, 2, 2]]
 sum_int= 1
-sum_list =1
+sum_int2 = 1
 total_sum = 0
-list = []
 for i in range(len(arr)):
-    # print(arr[i])
-    # print(type(arr[i]))
-    if type(arr[i]) == list:
-        for v in range(len(arr[i])):
-            sum_list *= arr[i][z]
-        # print(type(arr[i]))
-        print('-----------------')
-    else:
+    if type(arr[i]) == int:
         sum_int *= arr[i]
-        # print(type(arr[i]))
-        # print(sum)
-        print('-----------------')
-total_sum = sum_int*sum_list
-print(total_sum)
-
-     # if type(arr[i]) == int:
-     #     #print(arr[i])
-     #     sum = arr[i]*arr[i+1]
-     #     sum+=sum
-     #     print(sum)
-     #     print("-------------")
-     # else:
-
+    else:
+        for z in range(len(arr[i])):
+            sum_int2 *= arr[i][z]
+            total_sum=sum_int2
+if total_sum == 0:
+    print(sum_int)
+else:
+    print(sum_int*total_sum)
 
 
