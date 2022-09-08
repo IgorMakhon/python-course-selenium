@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice with functions&#10;and modules/libraries">
-      <change afterPath="$PROJECT_DIR$/Debugging_with_pdb/debugging_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewar_training/Stanton_measure.py" afterDir="false" />
+    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice with debugging">
+      <change afterPath="$PROJECT_DIR$/codewar_training/Rectangle_into_Squares(kyu6).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +53,8 @@
       <recent name="D:\python-course-selenium\Data Type" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.debugging_practice">
-    <configuration name="Grasshopper _Check for factor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Rectangle_into_Squares(kyu6)">
+    <configuration name="Rectangle_into_Squares(kyu6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-course-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar_training/Grasshopper _Check for factor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar_training/Rectangle_into_Squares(kyu6).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,19 +204,19 @@
     <list>
       <item itemvalue="Python.reverse_words" />
       <item itemvalue="Python.function_examples" />
+      <item itemvalue="Python.Rectangle_into_Squares(kyu6)" />
       <item itemvalue="Python.debugging_practice" />
-      <item itemvalue="Python.Grasshopper _Check for factor" />
       <item itemvalue="Python.Reduce_but_Grow" />
       <item itemvalue="Python.Stanton_measure" />
       <item itemvalue="Python.reverse words" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Rectangle_into_Squares(kyu6)" />
         <item itemvalue="Python.debugging_practice" />
         <item itemvalue="Python.Stanton_measure" />
         <item itemvalue="Python.Reduce_but_Grow" />
         <item itemvalue="Python.reverse words" />
-        <item itemvalue="Python.Grasshopper _Check for factor" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662471087406</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="practice with debugging">
+      <created>1662644195956</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1662644195956</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -438,6 +444,7 @@
     <MESSAGE value="practice4 with reverse" />
     <MESSAGE value="practice4 with reverse +handle exceptions" />
     <MESSAGE value="practice with functions&#10;and modules/libraries" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice with functions&#10;and modules/libraries" />
+    <MESSAGE value="practice with debugging" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice with debugging" />
   </component>
 </project>
