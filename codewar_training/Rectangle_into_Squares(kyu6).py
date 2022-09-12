@@ -28,7 +28,8 @@ In that case the returned structure of C will have its sz component equal to 0.
 Return the string "nil" with Bash, PowerShell, Pascal and Fortran.
 '''
 lng = 14
-wdth = 14
+wdth = 15
+
 s = lng*wdth
 square = 0
 collection = []
