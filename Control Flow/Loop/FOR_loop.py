@@ -37,6 +37,6 @@
 
 #to loop an empty list
 
-empty_list=[]
+empty_list=['new']
 for i in empty_list:
     print(i)
