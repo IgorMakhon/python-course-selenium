@@ -35,6 +35,5 @@ for j in range(len(list_of_domains)):
         email = random_string + '@' + list_of_domains[j]
         list_of_emails.append(email)
 
-str_emails = ',\n'.join(list_of_emails)
 with open('./EXERCISE_v1.csv', 'w') as my_f:
     my_f.write(',\n'.join(list_of_emails))
