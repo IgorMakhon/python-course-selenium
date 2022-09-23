@@ -23,15 +23,13 @@ import string
 # ipdb.set_trace()
 
 list_of_domains = ['supersqa.com', 'gmail.com', 'yahoo.com', 'outlook.com', 'msn.com']
-length = 5
-letters = string.ascii_lowercase
 random_string = ''
 email = ''
 list_of_emails = []
 
 for j in range(len(list_of_domains)):
     for k in range(20):
-        random_string = ''.join(random.choice(letters) for i in range(length))
+        random_string = ''.join(random.choice(string.ascii_lowercase) for i in range(5))
         email = random_string + '@' + list_of_domains[j]
         list_of_emails.append(email)
 
