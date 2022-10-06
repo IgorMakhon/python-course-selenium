@@ -11,12 +11,35 @@ Example output:
 {'yahoo.com': 19, 'gmail.com': 20, 'msn.com': 16, 'supersqa.com': 20, 'outlook.com': 25}
 
 """
-
+import ipdb
+import json
 
 input_file = "count_domains_in_email_list_file_exercise_input.csv"
 output_file = "count_domains_in_email_list_file_exercise_output.json"
-list_of_domains = []
+
+#Admas solution
+
+with open('count_domains_in_email_list_file_exercise_input.csv', 'r') as f:
+    emails_raw = f.readlines()
+
+emails_list = [ i.strip(',\n') for i in emails_raw]
+domain_count = dict()
+for email in emails_list:
+    domain = email.split('@')[-1]
+    if domain not in domain_count.keys():
+        domain_count[domain] = 1
+    else:
+        domain_count[domain] = domain_count[domain] + 1
+
+with open('count_domains_in_email_list_file_exercise_output1.json', 'w') as f1:
+    json_obj = json.dumps(domain_count)
+    f1.write(json_obj)
+
+
+#MY solution
+'''
 #open file
+list_of_domains = []
 with open(input_file, 'r') as f:
     #read file
     text_from_file = f.read()
@@ -60,3 +83,4 @@ my_string = '{' + yahoo + ', ' + gmail + ', ' + msn + ', ' + supr + '}'
 #wtite file
 with open('count_domains_in_email_list_file_exercise_output.json','w')as f1:
      f1.writelines('{' + yahoo + ', ' + gmail + ', ' + msn + ', ' + supr + '}')
+'''
