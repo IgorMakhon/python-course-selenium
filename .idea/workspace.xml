@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice with files2">
-      <change afterPath="$PROJECT_DIR$/Files/writing_files_no_content_manager_option1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Files/writing_files_with_context_manager_option2.py" afterDir="false" />
+    <list default="true" id="91ecd60c-b393-4034-9b96-bce139eb3dd6" name="Changes" comment="practice supersqa+calculator">
+      <change afterPath="$PROJECT_DIR$/codewar_training/Sum_of_Digits-Digital_Root.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/reading_files_no_content_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files/reading_files_no_content_manager_option1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/reading_files_with_context_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files/reading_files_with_context_manager_option2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewar_training/Find_the_odd_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewar_training/Find_the_odd_int.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewar_training/sandbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewar_training/sandbox.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +56,29 @@
       <recent name="D:\python-course-selenium\Data Type" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.writing_files_with_context_manager_option2">
-    <configuration name="Rectangle_into_Squares(kyu6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sandbox">
+    <configuration name="Exercise_Class_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-course-selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes/Exercise_Class_calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Find_the_odd_int" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-course-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +90,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar_training/Rectangle_into_Squares(kyu6).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar_training/Find_the_odd_int.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sum_of_Digits-Digital_Root" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-course-selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewar_training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar_training/Sum_of_Digits-Digital_Root.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="account_composition_ example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-course-selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes/account_composition_ example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,48 +162,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reading_files_no_content_manager_option1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-course-selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\python-course-selenium\Files\reading_files_no_content_manager_option1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="reading_files_with_context_manager_option2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-course-selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\python-course-selenium\Files\reading_files_with_context_manager_option2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="reverse_words" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-course-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="writing_files_no_content_manager_option1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sandbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-course-selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,32 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewar_training" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/writing_files_no_content_manager_option1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="writing_files_with_context_manager_option2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-course-selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Files/writing_files_with_context_manager_option2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewar_training/sandbox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,21 +205,21 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.reverse_words" />
       <item itemvalue="Python.function_examples" />
-      <item itemvalue="Python.reading_files_no_content_manager_option1" />
-      <item itemvalue="Python.reading_files_with_context_manager_option2" />
-      <item itemvalue="Python.writing_files_no_content_manager_option1" />
-      <item itemvalue="Python.writing_files_with_context_manager_option2" />
-      <item itemvalue="Python.Rectangle_into_Squares(kyu6)" />
+      <item itemvalue="Python.reverse_words" />
+      <item itemvalue="Python.Sum_of_Digits-Digital_Root" />
+      <item itemvalue="Python.sandbox" />
+      <item itemvalue="Python.Find_the_odd_int" />
+      <item itemvalue="Python.Exercise_Class_calculator" />
+      <item itemvalue="Python.account_composition_ example" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.writing_files_with_context_manager_option2" />
-        <item itemvalue="Python.writing_files_no_content_manager_option1" />
-        <item itemvalue="Python.reading_files_with_context_manager_option2" />
-        <item itemvalue="Python.reading_files_no_content_manager_option1" />
-        <item itemvalue="Python.Rectangle_into_Squares(kyu6)" />
+        <item itemvalue="Python.sandbox" />
+        <item itemvalue="Python.Sum_of_Digits-Digital_Root" />
+        <item itemvalue="Python.Find_the_odd_int" />
+        <item itemvalue="Python.Exercise_Class_calculator" />
+        <item itemvalue="Python.account_composition_ example" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +421,105 @@
       <option name="project" value="LOCAL" />
       <updated>1663595267468</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="practice with files3">
+      <created>1663598479873</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1663598479873</updated>
+    </task>
+    <task id="LOCAL-00029" summary="practice codewar">
+      <created>1663740347101</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1663740347101</updated>
+    </task>
+    <task id="LOCAL-00030" summary="practice codewar1">
+      <created>1663764441090</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1663764441090</updated>
+    </task>
+    <task id="LOCAL-00031" summary="practice codewar">
+      <created>1663826029728</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1663826029728</updated>
+    </task>
+    <task id="LOCAL-00032" summary="practice supersqa + codewars">
+      <created>1663916183722</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1663916183722</updated>
+    </task>
+    <task id="LOCAL-00033" summary="practice supersqa + codewars(refactor)">
+      <created>1663916266203</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1663916266203</updated>
+    </task>
+    <task id="LOCAL-00034" summary="practice supersqa + codewars(1)">
+      <created>1663916306897</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1663916306897</updated>
+    </task>
+    <task id="LOCAL-00035" summary="practice supersqa + codewars(2)">
+      <created>1663916378402</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1663916378402</updated>
+    </task>
+    <task id="LOCAL-00036" summary="practice supersqa+files">
+      <created>1664257948175</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1664257948175</updated>
+    </task>
+    <task id="LOCAL-00037" summary="practice supersqa+files+ex2">
+      <created>1664889589951</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1664889589951</updated>
+    </task>
+    <task id="LOCAL-00038" summary="practice supersqa+files+ex2.1">
+      <created>1665079567875</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1665079567875</updated>
+    </task>
+    <task id="LOCAL-00039" summary="practice supersqa+CLASSES">
+      <created>1665759098597</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1665759098597</updated>
+    </task>
+    <task id="LOCAL-00040" summary="practice supersqa+inheritance">
+      <created>1666027669871</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1666027669871</updated>
+    </task>
+    <task id="LOCAL-00041" summary="practice supersqa+calculator">
+      <created>1666625930524</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1666625930524</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -448,19 +545,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="practice with variables" />
-    <MESSAGE value="practice with variables = string" />
-    <MESSAGE value="practice with variables = list &amp; dictionaries" />
-    <MESSAGE value="practice with variables = dictionaries" />
-    <MESSAGE value="practice with variables = tuple" />
-    <MESSAGE value="practice with else_if" />
-    <MESSAGE value="practice with nested_else_if" />
-    <MESSAGE value="practice with BMI_exercise" />
-    <MESSAGE value="practice with BMI_exercise1" />
-    <MESSAGE value="practice with EVEN/ODD_exercise" />
-    <MESSAGE value="refactor&gt;rename" />
-    <MESSAGE value="practice for_loop" />
-    <MESSAGE value="practice for_loop_range" />
     <MESSAGE value="practice while_loop" />
     <MESSAGE value="practice break+continue" />
     <MESSAGE value="practice2" />
@@ -473,6 +557,19 @@
     <MESSAGE value="practice with rectangle into squares" />
     <MESSAGE value="practice with files" />
     <MESSAGE value="practice with files2" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice with files2" />
+    <MESSAGE value="practice with files3" />
+    <MESSAGE value="practice codewar1" />
+    <MESSAGE value="practice codewar" />
+    <MESSAGE value="practice supersqa + codewars" />
+    <MESSAGE value="practice supersqa + codewars(refactor)" />
+    <MESSAGE value="practice supersqa + codewars(1)" />
+    <MESSAGE value="practice supersqa + codewars(2)" />
+    <MESSAGE value="practice supersqa+files" />
+    <MESSAGE value="practice supersqa+files+ex2" />
+    <MESSAGE value="practice supersqa+files+ex2.1" />
+    <MESSAGE value="practice supersqa+CLASSES" />
+    <MESSAGE value="practice supersqa+inheritance" />
+    <MESSAGE value="practice supersqa+calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice supersqa+calculator" />
   </component>
 </project>

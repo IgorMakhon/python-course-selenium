@@ -10,5 +10,21 @@ Examples
 [0,1,0,1,0] should return 0, because it occurs 3 times (which is odd).
 [1,2,2,3,3,3,4,3,3,3,2,2,1] should return 4, because it appears 1 time (which is odd).
 '''
+#
+seq = [1,1,2,23,23,23,32]
 
-seq = [0,1,0,1,0]
+number_count = dict()
+for i in range(len(seq)):
+    if seq[i] not in number_count.keys():
+        number_count[seq[i]] = 1
+    else:
+        number_count[seq[i]] = number_count[seq[i]] + 1
+final_list = []
+for index in number_count:
+    if number_count[index] %2 != 0:
+            final_list.append(number_count[index])
+for key, value in number_count.items():
+    if value == max(final_list):
+        print(key)
+
+
